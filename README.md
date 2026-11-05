@@ -1,5 +1,9 @@
 # DS4Kiri
 
+<img width="900" height="1000" alt="image" src="https://github.com/user-attachments/assets/c0fa54dc-982b-447f-9e5d-191f69106f36" />
+
+
+
 DS4Kiri is a Windows desktop app for connecting PlayStation controllers and mapping their input to a virtual Xbox 360 controller. It also includes controller visualization, profiles, trigger and stick settings, LED color controls, themes, and optional driver setup.
 
 ## Requirements
